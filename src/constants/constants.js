@@ -12,7 +12,7 @@ export const projects = [
   description: "Primer Portfolio Profesional de mi perfil. Se implementa NextJS",
     image: '/images/porfolio.PNG',
     tags: ['NextJS','JSX'],
-    visit: 'https://google.com',
+    visit: 'https://github.com/mgrmanu10/portfolio-pro-manu',
     id: 1,
   }
 ];
