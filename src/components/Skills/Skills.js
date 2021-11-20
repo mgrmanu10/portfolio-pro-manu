@@ -1,10 +1,10 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact } from 'react-icons/di';
 import {AiOutlineApi} from 'react-icons/ai'
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './SkillsStyles';
 
-const Technologies = () =>  (
+const Skills = () =>  (
   
   <Section id="skills">
     <SectionDivider/>
@@ -59,4 +59,4 @@ const Technologies = () =>  (
   </Section>
 );
 
-export default Technologies;
+export default Skills;

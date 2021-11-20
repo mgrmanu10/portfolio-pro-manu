@@ -1,8 +1,8 @@
 import BgAnimation from '../components/BackgrooundAnimation/BackgroundAnimation';
-import Hero from '../components/Hero/Hero';
-import Projects from '../components/Projects/Projects';
-import Technologies from '../components/Technologies/Technologies';
-import Timeline from '../components/TimeLine/TimeLine';
+import Bienvenida from '../components/Bienvenida/Bienvenida';
+import Proyectos from '../components/Proyectos/Proyectos';
+import Skills from '../components/Skills/Skills';
+import SobreMi from '../components/SobreMi/SobreMi';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
 
@@ -10,20 +10,20 @@ const Home = () => {
   return (
     <Layout>
       <Section grid>
-        <Hero />
+        <Bienvenida />
         <BgAnimation />
       </Section>
       <br/>
-      <Projects />
+      <Proyectos />
       <br/>
       <br/>
       <br/>
       <br/>
-      <Technologies />
+      <Skills />
       <br/>
       <br/>
       <br/>
-      <Timeline />
+      <SobreMi />
     </Layout>
   );
 };

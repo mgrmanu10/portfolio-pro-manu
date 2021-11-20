@@ -1,10 +1,10 @@
 import React from 'react';
 
-import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
+import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProyectosStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
-const Projects = () => (
+const Proyectos = () => (
   <Section nopadding id="projects">
     <SectionDivider/>
     <SectionTitle main>Proyectos Realizados</SectionTitle>
@@ -34,4 +34,4 @@ const Projects = () => (
     </GridContainer>
   </Section>);
 
-export default Projects;
+export default Proyectos;

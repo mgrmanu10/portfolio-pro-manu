@@ -2,10 +2,9 @@ import React from 'react';
 
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
-import { DiWindows } from 'react-icons/di';
+import { LeftSection } from './BienvenidaStyles';
 
-const Hero = (props) => (
+const Bienvenida = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle>
@@ -20,4 +19,4 @@ const Hero = (props) => (
   </Section>
 );
  
-export default Hero;
+export default Bienvenida;
