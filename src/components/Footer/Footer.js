@@ -24,7 +24,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>"El mejor experto también fue un dia aprendiz."</Slogan>
+          <Slogan>"El mejor experto también fue un día aprendiz."</Slogan>
         </CompanyContainer>
         <SocialIcons href="https://github.com/mgrmanu10">
         <AiFillGithub size="3rem"/>
