@@ -8,13 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "@pdftron/webviewer": "^8.1.0",
     "@react-icons/all-files": "^4.1.0",
     "next": "10.2.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.3.1",
+    "react-pdf": "^5.5.0",
+    "react-typewriter-effect": "^1.1.0",
     "styled-components": "^5.3.0",
-    "styled-normalize": "^8.0.7"
+    "styled-normalize": "^8.0.7",
+    "typewriter-effect": "^2.18.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
   }
 }

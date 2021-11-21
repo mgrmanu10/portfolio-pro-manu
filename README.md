@@ -4,12 +4,12 @@ Este es el portfolio profesional de Manuel García Romero. Pueden utilizarlo de 
 
 Una vez descargado el repositorio, ejecutuar en la terminal de su IDE:
 
-'''
-npm start
-'''
+###
+npm install
+###
 
-'''
+###
 npm run dev
-'''
+###
 
 

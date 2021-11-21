@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react';
-
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './SobreMiStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
@@ -46,13 +45,14 @@ const SobreMi = () => {
     <Section id="about">
        <SectionDivider/>
       <SectionTitle>Sobre mí</SectionTitle>
+      <br/>
+      <br/>
       <SectionText> Soy un chico sevillano de 23 años, entusiasta de la tecnología y apasionado del desarrollo web y diseño de interfaces (mi objetivo laboral).
         <br/>
         <br/>
         Me considero una persona sociable, con predilección por el trabajo en equipo. Siempre intento mantener que reine el buen ambiente con mis compañeros y elevar la moral de estos si veo que están algo desanimados. Esto no quita que sea responsable, ya que no me gusta dejar a medias o mal terminado ningún trabajo.
         <br/>
         <br/>
-      
          </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
     <>

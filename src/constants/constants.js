@@ -18,9 +18,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Obtención del certificado B2 de Inglés, por Cambridge (FCE) y obtención del título de Bachillerato.' },
-  { year: 2016, text: 'Empiezo el grado de Ingeniería de la Salud, en la Universidad de Sevilla.'},
+  { year: 2015, text: 'Obtención del certificado B2 de Inglés por Cambridge (FCE) y obtención del título de Bachillerato.' },
+  { year: 2016, text: 'Comienzo del grado de Ingeniería de la Salud, en la Universidad de Sevilla.'},
   { year: 2019, text: 'Especialización del grado en la mención de Ingeniería Biomédica.'},
   { year: 2020, text: 'Prácticas Curriculares en TeamBimCivil SL. Desarrollo software con .NET (C#) y manejo de ERP y CRM Dolibarr.', },
-  { year: 2021, text: 'Presentación junto a mi compañero Domingo José Alchapar del proyecto del TFG "App Sinergia TGF" y obtención del grado de Ingeniería Biomédica. Comienzo de estudio de Máster en Ingeniería del Software: Cloud, Datos y Gestión TI (Actual).', },
+  { year: 2021, text: 'Presentación junto a mi compañero Domingo José Alchapar del proyecto del TFG "App Sinergia TGF" y obtención del grado de Ingeniería Biomédica. Comienzo de estudio de Máster en Ingeniería del Software: Cloud, Datos y Gestión TI (Actualidad).', },
 ];

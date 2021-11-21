@@ -2,6 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { AiOutlineMail} from 'react-icons/ai';
+import { LinkItem } from '../Footer/FooterStyles';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
@@ -10,7 +11,7 @@ const Header = () =>  (
     <Div1>
       
         <a style={{display: "flex", alignItems:"center", color: "white", marginBottom: "20px"}}>
-          <AiOutlineMail size="2rem"/> <Span> mgrmanu10@gmail.com</Span>
+        <LinkItem >mgrmanu10@gmail.com  +34 603 53 24 43</LinkItem>
         </a>
       
     </Div1>

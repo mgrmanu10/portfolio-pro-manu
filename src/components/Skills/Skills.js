@@ -9,6 +9,8 @@ const Skills = () =>  (
   <Section id="skills">
     <SectionDivider/>
     <SectionTitle>Tecnologías y Conocimientos</SectionTitle>
+    <br/>
+    <br/>
     <SectionText>
       He trabajado en mis proyectos con algunas de las tecnologías para el desarrollo web más actuales tanto para el Backend como el Frontend, haciendo uso del lenguaje JavaScript.
       <br/>
