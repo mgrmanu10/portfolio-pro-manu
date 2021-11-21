@@ -17,8 +17,8 @@ const Bienvenida = (props) => (
         
       </SectionTitle>
       <SectionText>
-       ¡Bienvenido/a a mi Porftolio Profesional!
-       <br/>Soy Ingeniero Biomédico y actualmente curso el máster en Ingeniería del Software: Cloud, Datos y Gestión TI de la Universidad de Sevilla.
+       Bienvenido/a a mi Porftolio Profesional
+       <br/>Actualmente curso el máster en Ingeniería del Software: Cloud, Datos y Gestión TI de la Universidad de Sevilla.
        <br/>En este portfolio podrás saber más sobre los proyectos en los que he trabajado, las tecnologías que conozco y averiguar más sobre mí.
 
       </SectionText>

@@ -54,6 +54,9 @@ const SobreMi = () => {
         <br/>
         <br/>
          </SectionText>
+         <br/>
+         <br/>
+         <br/>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
     <>
     {TimeLineData.map((item, index)=>(
