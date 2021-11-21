@@ -10,13 +10,17 @@ const Bienvenida = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle>
-        Te doy la bienvenida a<br/>
-        mi Portfolio Profesional
+        Manuel García Romero,<br/>
+        Ingeniero Biomédico y <br/>
+        Desarrollador Web
         <br/>
         
       </SectionTitle>
       <SectionText>
-       Mi nombre es Manuel García Romero, soy Ingeniero Biomédico y actualmente curso el máster en Ingeniería del Software: Cloud, Datos y Gestión TI de la Universidad de Sevilla.
+       ¡Bienvenido/a a mi Porftolio Profesional!
+       <br/>Soy Ingeniero Biomédico y actualmente curso el máster en Ingeniería del Software: Cloud, Datos y Gestión TI de la Universidad de Sevilla.
+       <br/>En este portfolio podrás saber más sobre los proyectos en los que he trabajado, las tecnologías que conozco y averiguar más sobre mí.
+
       </SectionText>
       <br/>
       <br/>
